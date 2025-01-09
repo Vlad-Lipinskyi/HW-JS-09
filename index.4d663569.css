@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+}
+
+#taskList {
+  flex-direction: column;
+  gap: 20px;
+  display: flex;
+}
+
+.delete-btn {
+  margin-left: 15px;
+}
+/*# sourceMappingURL=index.4d663569.css.map */
